@@ -77,4 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## Libs
-- http://jakubzloczewski.github.io/react-steps/ 
+- https://github.com/jakubzloczewski/react-steps
