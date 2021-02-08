@@ -1,2 +1,2 @@
-# cv-manager
+# CV Manager
 CV Manager
